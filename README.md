@@ -3,7 +3,7 @@
 - 👀 I’m interested in game development programing and someday i wish to open my own game development company or to play a big role in game development.
 
 - 🌱 Languages that i know or have some knowledge of : python
-- 🌱 Currently learning C++,R,Prolog (decided to have C++ as the main language)
+- 🌱 Currently learning C++,C ,R,Prolog (decided to have C++ as the main language)
 - 🌱 Possible languages that i will learn in the future: Java,Php
 
 - 💞️ I’m looking to collaborate on interesting projects that can help me get better and have a better understanding in programming.
