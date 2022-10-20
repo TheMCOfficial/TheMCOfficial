@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMCOfficial ,a second year college student in Informatics that got attracted to programing because of the urge to create something.
+- 👋 Hi, I’m @TheMCOfficial ,a second year college student in Informatics that got attracted to programing because of the urge to create different things.
 
 - 👀 I’m interested in game development,programing.
 
