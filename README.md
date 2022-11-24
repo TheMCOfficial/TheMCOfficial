@@ -8,7 +8,7 @@
 - 🌱 Currently learning Java 
 - 🌱 Possible languages that i will learn in the future: Javascript,Php
 
-- 💞️ I’m looking to collaborate on interesting projects that can help me get better and have a better understanding in programming.
+- 💞️ I’m looking to collaborate on interesting projects that can help me get better and have gain more knowledge in programming.
 
 - 📫 How to reach me: TheMcOfficial2002@gmail.com
 
