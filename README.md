@@ -4,9 +4,9 @@
 
 - 🌱 MAIN LANGUAGE:C++
 
-- 🌱 Languages that i know or have some knowledge of : Python,C++,C,R,Prolog
+- 🌱 Languages that i know or have some knowledge of : Python,C++,C,R,Prolog,Java
 - 🌱 Currently learning JavaScript 
-- 🌱 Possible languages that i will learn in the future: Javascript,Php
+- 🌱 Possible languages that i will learn in the future: ----
 
 - 💞️ I’m looking to collaborate on interesting projects that can help me get better and gain more knowledge in programming.
 
