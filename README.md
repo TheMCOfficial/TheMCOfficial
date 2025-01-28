@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @TheMCOfficial ,a third year college student in Informatics that got attracted to programing because of the urge to create interesting things.
+- 👋 Hi, I’m @TheMCOfficial , I am a recent graduate eager to leverage my academic background and personal passion for 
+  technology in order to establish a successful career in IT. I am highly motivated, quick to learn 
+  new skills and technologies, and have a strong ambition to grow and adapt within the IT industry. 
 
 - 👀 I’m interested in game development,programing ,web development.
 
